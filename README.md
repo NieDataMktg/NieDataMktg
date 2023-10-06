@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NieDataMktg
+- 👀 I’m interested in Business and Marketing
+- 🌱 I’m currently learning Data Analytics
